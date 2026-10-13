@@ -6,7 +6,7 @@ A simple, responsive web application that allows you to search for GitHub profil
 
 ## 🚀 Live Demo
 
-Check out the live application here: **[Live Demo Link](https://YOUR_LIVE_DEMO_URL.com)**
+Check out the live application here: **[Live Demo Link](https://keerthi957-321.github.io/GitHub-Profile-Finder/)**
 
 ---
 
@@ -25,4 +25,4 @@ Check out the live application here: **[Live Demo Link](https://YOUR_LIVE_DEMO_U
 - **API:** [GitHub REST API](https://github.com)
 
 
-Project Link: [https://github.com](https://github.com)
+Project Link: [https://github.com](https://github.com/Keerthi957-321/GitHub-Profile-Finder)
